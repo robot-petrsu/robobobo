@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+			  xmlns:ads="http://schemas.android.com/apk/lib/com.google.ads"
+    android:orientation="vertical"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:gravity="bottom|center_horizontal">
+    
+    <ListView android:id="@+id/found_devices_list" 
+    	android:layout_height="wrap_content" 
+    	android:layout_width="fill_parent"
+    	android:layout_weight="1">
+    </ListView>
+    <!--  
+    <com.google.ads.AdView android:id="@+id/adView"
+                         android:layout_width="fill_parent"
+                         android:layout_height="wrap_content"
+                         ads:adUnitId="xxx"
+                         ads:adSize="BANNER"
+                         ads:loadAdOnCreate="true"/>
+    -->
+    <Button android:text="ReScan" 
+    	android:id="@+id/button_scan"
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content">
+    </Button>
+    
+</LinearLayout>

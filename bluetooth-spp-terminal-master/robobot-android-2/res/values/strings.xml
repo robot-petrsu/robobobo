@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">Robobot</string>
+    <string name="rename_request">New name</string>
+    <string name="nxt_bt_name">NXT</string>
+    <string name="device_extra_id_act_pass">emboxDevice</string>
+    <string name="rename_menu_item">Rename</string>
+    <string name="scanning_string">Scanning...</string>
+    <string name="connecting_string">Connecting...</string>
+    <string name="select_string">Select device</string>
+    <string name="connected_string">Connected to</string>
+    <string name="cannot_determ_bot">Cannot determ bot</string>
+    <string name="choose_address">Choose address</string>
+    <string name="address">Address:</string>
+    <string name="port">Port:</string>
+    <string name="address_hint">IP address</string>
+    <string name="port_hint">Port</string>
+    <string name="connect">Connect</string>
+    <string name="bt_internet">Internet</string>
+    <string name="bt_bluetooth">Bluetooth</string>
+</resources>

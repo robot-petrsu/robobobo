@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/C:/android%20projects/rob/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <color name="green">#005555</color>
+    <color name="red">#551500</color>
+    <!-- From: file:/C:/android%20projects/rob/app/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/C:/android%20projects/rob/app/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="Butt_left">Влево</string>
+    <string name="Butt_right">Вправо</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">rob</string>
+    <string name="automatic">Автопилот</string>
+    <string name="autop">автопилот</string>
+    <string name="butt_down">Назад</string>
+    <string name="butt_up">Вперед</string>
+    <string name="call">Сигнал</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="logs">NULL</string>
+    <string name="minus">-</string>
+    <string name="out_speed">10</string>
+    <string name="plus">+</string>
+    <string name="signal">Сигнал</string>
+    <string name="speed">Скорость</string>
+    <!-- From: file:/C:/android%20projects/rob/app/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+</resources>
